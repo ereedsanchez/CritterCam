@@ -13,7 +13,7 @@ We will be guided by science, from Dr. Scott LaPoint, on best practices to captu
 ### Blog
 Our blog of activities can be viewed here: https://critters.sayceltech.com/blog/
 
-### Instructions
+## Instructions
 
 ### The Camera
 #### 1. Hack the Wyzecam
