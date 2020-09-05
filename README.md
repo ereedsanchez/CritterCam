@@ -2,11 +2,11 @@
 CritterCams at Black Rock Forest. A solar powered forest video hack for Wyze Cams. 
 
 ### Purpose
-This repository is a ecological technology based art project byt Edwin Reed-Sanchez, Garret Huff, Tony Baizan, and Scott La Point. 
-The purpose is to create inexpensive diy solar powered critter cams using wyzecams ($25) and creating enviornments for critters to live.  
-We are creating baited camera boxes where critters, includings birds, chipmunks, and other creatures would be captured by wireless cameras connected tot he Black Rock Forest Mesh Network.   
+This repository is a ecological technology based art project by Edwin Reed-Sanchez, Garrett Huff, Tony Baizan, and Scott La Point. 
+The purpose is to create an inexpensive DIY solar powered critter cam using wyzecams ($25) and creating enviornments for critters to live.  
+We are creating baited camera boxes where birds, chipmunks, and other creatures would be captured by wireless cameras connected to the Black Rock Forest Wifi Mesh Network.   
 
-The inside of the boxes will be decorated like apartments or apartment complexes.  
+The inside of the boxes will be decorated like apartments.  
 
 We will be guided by science, from Dr. Scott LaPoint, on best practices to capture images of animals in the field.  
 
