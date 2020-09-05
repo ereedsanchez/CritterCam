@@ -25,6 +25,7 @@ Our blog of activities can be viewed here: https://critters.sayceltech.com/blog/
 
 ### The Solar Power
 #### 1. Solar Power Kit
+Wyzecams with the RTSP Hack use 2.0 Watts, 0.032 Amps, 
 
 
 ### The Science
