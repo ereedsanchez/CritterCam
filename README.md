@@ -14,15 +14,16 @@ The inside of the boxes will be decorated like apartments.
 We will be guided by science, from Dr. Scott LaPoint, on best practices to capture images of animals in the field.  
 
 ### Equipment list
-                * [Wyze Cam v2](https://wyze.com/wyze-cam.html)
-                * [Wyze Cam outdoor housing](https://wyze.com/wyze-outdoor-expansion-cam.html)
-                * [Long USB power cord](https://www.amazon.com/Itramax-Charging-Charger-Camera-Controller/dp/B07ZGCT7QB/ref=sr_1_2_sspa?dchild=1&keywords=long+usb+cable+wyze+cam&qid=1605109192&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExU00xUjRXSTVHRlhCJmVuY3J5cHRlZElkPUEwMjk1MDM3MzBDUU04TzlOS01HQiZlbmNyeXB0ZWRBZElkPUExMDE4OTE0MlpVTTFMT1JZT1NFOSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-                * Large container (insert link)
-                * Solar panel (insert link)
-                * Battery (insert link)
-            2. Additional accessories if needed:
-                * Camera clamp
-                * Tripod arm
+- [Wyze Cam v2](https://wyze.com/wyze-cam.html)
+- [Wyze Cam outdoor housing](https://wyze.com/wyze-outdoor-expansion-cam.html)
+- [Long USB power cord](https://www.amazon.com/Itramax-Charging-Charger-Camera-Controller/dp/B07ZGCT7QB/ref=sr_1_2_sspa?dchild=1&keywords=long+usb+cable+wyze+cam&qid=1605109192&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExU00xUjRXSTVHRlhCJmVuY3J5cHRlZElkPUEwMjk1MDM3MzBDUU04TzlOS01HQiZlbmNyeXB0ZWRBZElkPUExMDE4OTE0MlpVTTFMT1JZT1NFOSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+- Large container (insert link)
+- Solar panel (insert link)
+- Battery (insert link)
+##### Additional accessories if needed:
+- Camera clamp
+- Tripod arm
+
 ## Instructions
 
 ### The Camera
